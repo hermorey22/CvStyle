@@ -1,0 +1,62 @@
+/** @format */
+
+
+.conteGene{
+  background-image: url(src/fondo3.jpg);
+  background-size: 100% 100%;
+  
+}
+.imagen{
+  width: 15%;
+  height: 16%;
+  float: right;
+  padding: 5px;
+}
+
+.tituPrin {
+  padding-left: 40%;
+  text-decoration: underline #F08080;
+  font-family: sans-serif;
+  font-size: 250%;
+  font-weight: bolder;
+}
+.contenDatos,
+.contenExperi,
+.conteContac{
+  border: 5px solid #4169E1;
+  
+}
+.conteContac{
+  margin-top: 15px;
+}
+.contenDatos {
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+.contenDatos,
+.contenExperi {
+  font-style: italic;
+  font-family: sans-serif;
+  font-size: 120%;
+  font-weight: bolder;
+}
+.tituSecu{
+  font-style: initial;
+  font-size: 25px;
+  font-family: sans-serif;
+  font-weight: bolder;
+}
+
+#contac{
+  color: white; 
+  -webkit-text-stroke: 1px #FF4500;
+}
+.links{
+  
+  padding-left: 25px;
+  color: white;
+  font-size: 20px;
+}
+.conteLinks{
+  padding-left: 150px;
+}
